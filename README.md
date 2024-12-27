@@ -1,4 +1,4 @@
-# API de Lendas
+# API de Lendas Avatar
 
 Este é um projeto de API simples criado com Node.js, Express e MongoDB, projetado para organizar e fornecer informações sobre lendas de maneira eficiente.
 
